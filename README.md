@@ -30,3 +30,5 @@ fetch("https://jsonplaceholder.typicode.com/posts", {
 - `JSON.stringfy()` : JS Object -> JSON으로 파싱
 - JSON 은 모든 키와 값을 따옴표로 묶어야한다.
 - JSON의 type 형태는 string
+
+## 구조 분해 할당
